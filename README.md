@@ -7,4 +7,4 @@ Mean of the pledged are less than 2000 pounds when the mean of the goal is close
 For Louise's project to be successful, it would be helpful to set a goal that is around 2000.
 -------------------------------------------------------------------------------------
 
-![GB musical analysis](path/to/GB musical analysis.png)
+![GB_musical_analysis](path/to/GB_musical_analysis.png)

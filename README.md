@@ -3,7 +3,7 @@
 ## Overview of Project
 ### Purpose
 We are trying to help Louise launch her kickstarter campaign. 
-She is looking into doing a play kickstarter and we want to know which month of the year has the highest success rate when launced. 
+She is looking into doing a play kickstarter and we want to know which month of the year has the highest success rate when launched. 
 Also, what range of goals had the most successful rate.
 
 ## Analysis and Challenges
@@ -25,7 +25,7 @@ At the end, the graph came out to be okay, but it took me a while to change the 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 When you look at the graph, it is very clear on the most successful month to launch a campaign. 
-May has a high peak. Therefore, I would recommed Louise to launch her Kickstarter in May. 
+May has a high peak. Therefore, I would recommend Louise to launch her Kickstarter in May. 
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)

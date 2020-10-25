@@ -20,7 +20,7 @@ At the end, I came to making this as a bas for the formulas.
 However, I was having trouble due to a extra _space in the formula. It kept giving out errors.
 Also, I realized I had to lock the rages if I wanted to copy and paste the fomulas. 
 At the end, the graph came out to be okay, but it took me a while to change the x-axis and y-axis. 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
@@ -28,7 +28,7 @@ When you look at the graph, it is very clear on the most successful month to lau
 May has a high peak. Therefore, I would recommed Louise to launch her Kickstarter in May. 
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 As you can see on the graph, there are some highs and lows in the successful outcomes. 
 It seems like less than 1000 and between 45000 and 49999 seem to have the highest success rates. 
 

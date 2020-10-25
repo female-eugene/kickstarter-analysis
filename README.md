@@ -10,7 +10,7 @@ Also, what range of goals had the most successful rate.
 First, looking at the launch dates in months for the success rates was a challenge for me. 
 I had a difficult time figuring out what elements to add to columns, rows, values in the Pivot Table field. 
 At the end, it was trial and error that guided me towards the correct table to create the graph. 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 Second, when going through the outcomes based on goals, I had a tough time with COUNTIFS formula. 
 At the end, I came to making this as a bas for the formulas.
@@ -23,7 +23,7 @@ At the end, the graph came out to be okay, but it took me a while to change the 
 ![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/female-eugene/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 When you look at the graph, it is very clear on the most successful month to launch a campaign. 
 May has a high peak. Therefore, I would recommed Louise to launch her Kickstarter in May. 
 
